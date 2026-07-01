@@ -21,3 +21,8 @@ administrar redes y crear soluciones tecnológicas para empresas.
 
 </body>
 </html>
+<h2>Objetivo</h2>
+
+<p>
+Aprender el uso de Git y GitHub para desarrollar proyectos colaborativos.
+</p>
