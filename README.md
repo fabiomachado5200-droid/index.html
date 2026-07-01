@@ -26,3 +26,9 @@ administrar redes y crear soluciones tecnológicas para empresas.
 <p>
 Aprender el uso de Git y GitHub para desarrollar proyectos colaborativos.
 </p>
+
+<footer>
+
+<p>Proyecto realizado con GitHub.</p>
+
+</footer>
